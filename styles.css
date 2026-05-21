@@ -1,0 +1,38 @@
+ html body{
+margin: 0%; padding: 0%;
+
+}
+
+h1, h2, h3, h4, p1, p2, p3, p4, p5, p6, p7, p8, p9, p10, p11{
+    color: whitesmoke; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+}
+
+body{ background-color: black;}
+header img{
+    width: 400px; height: 500px; border: 30px solid; color: crimson; 
+}
+
+header{
+    text-align: right; background-color: darkgrey; margin-trim: all; background-image: url(./back.webp); background-size: cover ; 
+}
+ header h1{
+    word-spacing: 20%;
+ }
+
+ 
+
+ h2, p3{
+line-height: 100%;
+
+ } 
+ .box{
+    width: 50%; height: 500%;
+ }
+ .title-box{
+    background-color:white;}
+
+#font{
+   font-family: serif; font-weight: bolder; font-style: italic;
+}
+.yuji{
+   color: red; font-weight: bolder;}
