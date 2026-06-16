@@ -36,4 +36,6 @@ line-height: 100%;
 
 .light{
    color: crimson; font-weight: bolder; font-family:fantasy; font-style:italic }
-   
+   b{color: blue;}
+   u{color:blue}
+   i{color: blue;}
